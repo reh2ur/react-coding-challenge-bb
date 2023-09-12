@@ -5,7 +5,6 @@
 ## Setup
 - The project is setup with cra, typescript and jest, install dependencies with `npm i`.
 - The app renders the challenge component on the root route `/`.
-- The app renders an implementation example on `/goal` route.
 
 ##  Challenge
 
